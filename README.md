@@ -1,3 +1,5 @@
+This fork just adds ssh client and sshpass to the official openhab-docker image for the debian builds.
+
 # openHAB Docker Containers
 
 ![openHAB logo](https://github.com/openhab/openhab-docker/raw/main/openhab.png)
