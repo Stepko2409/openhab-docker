@@ -55,6 +55,8 @@ RUN apt-get update && \
         netbase \
         openjdk-${JAVA_VERSION}-jre-headless \
         procps \
+        ssh \
+        sshpass \ 
         tini \
         unzip \
         wget \
